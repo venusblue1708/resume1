@@ -1,0 +1,22 @@
+@media all and (max-with: 1100px) {
+  .navbar__list {
+    padding: 0;
+  }
+  .header__btn {
+    font-size: 13px;
+  }
+}
+@media all and (max-with: 990px) {
+  .header__img {
+    width: 130px;
+    height: 131px;
+  }
+  .header__name {
+    margin-top: -4%;
+    font-size: 32px;
+  }
+  .list__item > a {
+    margin-left: 9px;
+    font-size: 14px;
+  }
+}
