@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto Slab", serif;
 }
+/* ==========HEADER======== */
 .header__info {
   background-color: rgb(159, 153, 94);
   width: 48%;
@@ -65,6 +66,8 @@ body {
 .btn__icon {
   width: 8%;
 }
+/* ==========HEADER======== */
+/* ==========FEATURES======== */
 .features {
   display: flex;
   flex-direction: column;
@@ -92,6 +95,8 @@ body {
   margin-top: 2%;
   margin-left: 34px;
 }
+/* ==========FEATURES======== */
+/* ==========skills======== */
 .content {
   background-color: rgb(159, 153, 94);
   width: 48%;
@@ -128,6 +133,9 @@ body {
   width: 60%;
   background-color: #0b5091;
 }
+/* ==========skills======== */
+/* ==========Footer======== */
+
 footer {
   background-color: rgb(242, 240, 240);
   width: 40%;
@@ -151,3 +159,4 @@ footer {
   width: 5%;
   margin-left: 0;
 }
+/* ==========Footer======== */
